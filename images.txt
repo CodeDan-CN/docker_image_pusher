@@ -14,3 +14,4 @@ rocm/vllm:latest
 
 milvusdb/milvus:v2.6.0
 
+gitlab/gitlab-ce:latest
