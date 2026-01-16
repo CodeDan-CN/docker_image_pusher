@@ -19,3 +19,5 @@ gitlab/gitlab-ce:latest
 ghcr.io/xiaozhi-labs/xiaozhi-server:main
 
 docker.openhands.dev/openhands/openhands:1.1
+
+docker.openhands.dev/openhands/runtime:1.1-nikolaik
