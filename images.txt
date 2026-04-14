@@ -25,3 +25,5 @@ docker.openhands.dev/openhands/runtime:1.1-nikolaik
 node:22
 
 nginx:alpine
+
+python:3.13-slim
