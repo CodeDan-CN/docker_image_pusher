@@ -27,3 +27,5 @@ node:22
 nginx:alpine
 
 python:3.13-slim
+
+ghcr.io/openclaw/openclaw:latest
