@@ -31,3 +31,5 @@ python:3.13-slim
 ghcr.io/openclaw/openclaw:latest
 
 python:3.10-slim
+
+mysql:8.0
