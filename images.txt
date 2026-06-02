@@ -33,3 +33,5 @@ ghcr.io/openclaw/openclaw:latest
 python:3.10-slim
 
 mysql:8.0
+
+ghcr.io/nousresearch/hermes-agent:latest
