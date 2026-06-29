@@ -24,3 +24,5 @@ python:3.10-slim
 mysql:8.0
 
 minio/minio:RELEASE.2025-09-07T16-13-09Z
+
+pgvector/pgvector:pg17
