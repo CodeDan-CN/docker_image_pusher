@@ -30,3 +30,5 @@ pgvector/pgvector:pg17
 ollama/ollama:latest
 
 intel/vllm:latest
+
+vllm/vllm-openai-xpu:latest
